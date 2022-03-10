@@ -65,7 +65,7 @@ html, body {
 	
 }
 .homeimage{
-	background-image: url("images/blurrycity.jpg");
+	background-image: url("blurrycity.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -73,7 +73,7 @@ html, body {
 
 }
 .aboutimage{
-	background-image: url("images/blurrygirl.jpg");
+	background-image: url("blurrygirl.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
